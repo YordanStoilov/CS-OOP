@@ -6,6 +6,9 @@ public class StartUp
     {
         Dog dog = new Dog();
         Animal animal = new Animal();
-
+        Puppy puppy = new Puppy();
+        puppy.Weep();
+        puppy.Bark();
+        puppy.Weep();
     }
 }

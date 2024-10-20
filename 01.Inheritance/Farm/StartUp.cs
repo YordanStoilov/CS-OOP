@@ -10,5 +10,9 @@ public class StartUp
         puppy.Weep();
         puppy.Bark();
         puppy.Weep();
+
+        Cat cat = new Cat();
+        cat.Meow();
+        cat.Eat();
     }
 }

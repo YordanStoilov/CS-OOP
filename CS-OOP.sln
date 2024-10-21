@@ -5,7 +5,11 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Inheritance", "01.Inheritance", "{5586D456-8B94-4BE9-B883-42365FF7D703}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farm", "01.Inheritance\Farm\Farm.csproj", "{2EC298BB-8251-4DF4-A5D2-CFC68BF17990}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Farm", "01.Inheritance\Farm\Farm.csproj", "{2EC298BB-8251-4DF4-A5D2-CFC68BF17990}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomRandomList", "01.Inheritance\CustomRandomList\CustomRandomList.csproj", "{ACE0097E-7293-4DD6-B39C-7F1CFE92400E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStack", "01.Inheritance\CustomStack\CustomStack.csproj", "{48267EE3-E8E8-4786-98A5-3ABA81770FDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,11 +21,24 @@ Global
 		{2EC298BB-8251-4DF4-A5D2-CFC68BF17990}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EC298BB-8251-4DF4-A5D2-CFC68BF17990}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EC298BB-8251-4DF4-A5D2-CFC68BF17990}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE0097E-7293-4DD6-B39C-7F1CFE92400E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE0097E-7293-4DD6-B39C-7F1CFE92400E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE0097E-7293-4DD6-B39C-7F1CFE92400E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE0097E-7293-4DD6-B39C-7F1CFE92400E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48267EE3-E8E8-4786-98A5-3ABA81770FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48267EE3-E8E8-4786-98A5-3ABA81770FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48267EE3-E8E8-4786-98A5-3ABA81770FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48267EE3-E8E8-4786-98A5-3ABA81770FDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2EC298BB-8251-4DF4-A5D2-CFC68BF17990} = {5586D456-8B94-4BE9-B883-42365FF7D703}
+		{ACE0097E-7293-4DD6-B39C-7F1CFE92400E} = {5586D456-8B94-4BE9-B883-42365FF7D703}
+		{48267EE3-E8E8-4786-98A5-3ABA81770FDE} = {5586D456-8B94-4BE9-B883-42365FF7D703}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AC3F6C4-0E98-4967-9D44-9C24F19689D2}
 	EndGlobalSection
 EndGlobal

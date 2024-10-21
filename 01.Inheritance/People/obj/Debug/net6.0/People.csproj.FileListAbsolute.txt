@@ -1,0 +1,15 @@
+C:\Users\yordanstoilov\source\repos\YordanStoilov\CS-OOP\01.Inheritance\People\bin\Debug\net6.0\People.exe
+C:\Users\yordanstoilov\Source\Repos\YordanStoilov\CS-OOP\01.Inheritance\People\bin\Debug\net6.0\People.deps.json
+C:\Users\yordanstoilov\Source\Repos\YordanStoilov\CS-OOP\01.Inheritance\People\bin\Debug\net6.0\People.runtimeconfig.json
+C:\Users\yordanstoilov\source\repos\YordanStoilov\CS-OOP\01.Inheritance\People\bin\Debug\net6.0\People.dll
+C:\Users\yordanstoilov\source\repos\YordanStoilov\CS-OOP\01.Inheritance\People\bin\Debug\net6.0\People.pdb
+C:\Users\yordanstoilov\source\repos\YordanStoilov\CS-OOP\01.Inheritance\People\obj\Debug\net6.0\People.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yordanstoilov\source\repos\YordanStoilov\CS-OOP\01.Inheritance\People\obj\Debug\net6.0\People.AssemblyInfoInputs.cache
+C:\Users\yordanstoilov\source\repos\YordanStoilov\CS-OOP\01.Inheritance\People\obj\Debug\net6.0\People.AssemblyInfo.cs
+C:\Users\yordanstoilov\source\repos\YordanStoilov\CS-OOP\01.Inheritance\People\obj\Debug\net6.0\People.csproj.CoreCompileInputs.cache
+C:\Users\yordanstoilov\source\repos\YordanStoilov\CS-OOP\01.Inheritance\People\obj\Debug\net6.0\People.sourcelink.json
+C:\Users\yordanstoilov\source\repos\YordanStoilov\CS-OOP\01.Inheritance\People\obj\Debug\net6.0\People.dll
+C:\Users\yordanstoilov\source\repos\YordanStoilov\CS-OOP\01.Inheritance\People\obj\Debug\net6.0\refint\People.dll
+C:\Users\yordanstoilov\source\repos\YordanStoilov\CS-OOP\01.Inheritance\People\obj\Debug\net6.0\People.pdb
+C:\Users\yordanstoilov\Source\Repos\YordanStoilov\CS-OOP\01.Inheritance\People\obj\Debug\net6.0\People.genruntimeconfig.cache
+C:\Users\yordanstoilov\Source\Repos\YordanStoilov\CS-OOP\01.Inheritance\People\obj\Debug\net6.0\ref\People.dll

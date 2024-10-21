@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomStack", "01.Inheritan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "01.Inheritance\Person\Person.csproj", "{61D37BBF-F2C8-4575-BBB1-4AB6DAE4994B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoo", "01.Inheritance\Zoo\Zoo.csproj", "{20681A1F-8D7D-457D-B170-7491E407091A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{61D37BBF-F2C8-4575-BBB1-4AB6DAE4994B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61D37BBF-F2C8-4575-BBB1-4AB6DAE4994B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61D37BBF-F2C8-4575-BBB1-4AB6DAE4994B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20681A1F-8D7D-457D-B170-7491E407091A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20681A1F-8D7D-457D-B170-7491E407091A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20681A1F-8D7D-457D-B170-7491E407091A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20681A1F-8D7D-457D-B170-7491E407091A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{ACE0097E-7293-4DD6-B39C-7F1CFE92400E} = {5586D456-8B94-4BE9-B883-42365FF7D703}
 		{48267EE3-E8E8-4786-98A5-3ABA81770FDE} = {5586D456-8B94-4BE9-B883-42365FF7D703}
 		{61D37BBF-F2C8-4575-BBB1-4AB6DAE4994B} = {5586D456-8B94-4BE9-B883-42365FF7D703}
+		{20681A1F-8D7D-457D-B170-7491E407091A} = {5586D456-8B94-4BE9-B883-42365FF7D703}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7AC3F6C4-0E98-4967-9D44-9C24F19689D2}
